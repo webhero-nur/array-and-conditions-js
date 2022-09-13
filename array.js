@@ -1,0 +1,4 @@
+var array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+var arrayLen = array.length;
+console.log(array);
+console.log(arrayLen);
